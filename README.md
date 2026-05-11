@@ -6,7 +6,7 @@ Integrated Database and Analytics Solution for NorthStar Urban Mobility and Logi
 
 ## Student Details
 
-**Student Name:** Shishir Paudel  
+**Student Name:**AAYUSH SHAH
 **Module:** Databases and Analytics  
 **Module Codes:** CP60056E, CP6CS56E, CP6HA50E, CP6UA56O, CP6SL50O, CP6GR56O  
 **University:** University of West London  
