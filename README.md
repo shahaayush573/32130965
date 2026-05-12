@@ -4,12 +4,10 @@
 
 Integrated Database and Analytics Solution for NorthStar Urban Mobility and Logistics
 
-## Student Details
+Student Name:AAYUSH SHAH     
+Module:Databases and Analytics  
 
-**Student Name:**AAYUSH SHAH     
-**Module:** Databases and Analytics  
-**Module Codes:** CP60056E, CP6CS56E, CP6HA50E, CP6UA56O, CP6SL50O, CP6GR56O  
-**University:** University of West London  
+University: University of West London  
 
 ## Project Overview
 
@@ -29,28 +27,3 @@ The project uses:
 - MongoDB aggregation
 - Indexing and query optimisation
 
-## Repository Structure
-
-```text
-northstar-databases-analytics/
-│
-├── README.md
-│
-├── 01-python-data-processing/
-│   ├── NorthStar_01_Python_Data_Processing.ipynb
-│   └── README.md
-│
-├── 02-sql-within-r/
-│   ├── NorthStar_02_SQL_within_R.ipynb
-│   └── README.md
-│
-├── 03-r-analytics/
-│   ├── NorthStar_03_R_Analytics.ipynb
-│   └── README.md
-│
-├── 04-mongodb-atlas-nosql-design/
-│   ├── NorthStar_04_MongoDB_Atlas_NoSQL_Design.ipynb
-│   └── README.md
-│
-└── report/
-    └── NorthStar_Databases_and_Analytics_Report.pdf
